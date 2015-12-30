@@ -1,3 +1,3 @@
-# normal robot file
+# production robot file
 User-agent: *
 Disallow:
